@@ -1,7 +1,7 @@
 {
-  "name": "peste",
+  "name": "sred",
   "version": "1.0.0",
-  "abstract": "Formalisation d'une veille de tendances",
+  "abstract": "ShallowRed template for web development",
   "author": "Lucas Poulain (ShallowRed)",
   "license": "ISC",
   "main": "lib/index.js",
